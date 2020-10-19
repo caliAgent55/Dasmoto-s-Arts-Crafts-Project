@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, sans-serif
+}
+
+#main {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background: url("../images/pattern.webp");
+}
+
+#brushes {
+    box-sizing: border-box;
+    width: 100%;
+    height: 20%;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background: mediumspringgreen;
+}
+
+#frames {
+    box-sizing: border-box;
+    width: 100%;
+    height: 20%;
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background: lightcoral;
+}
+
+#paint {
+    box-sizing: border-box;
+    width: 100%;
+    height: 20%;
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background: skyblue;
+}
+
+p {
+    padding: 20px;
+
+}
+
+a{
+    font-weight: bold;
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    color: khaki;
+    background: url("../images/pattern.webp");
+}
